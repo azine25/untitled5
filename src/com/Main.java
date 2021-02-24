@@ -27,6 +27,9 @@ public class Main {
             System.out.println("Оставайтесь дома ");
         }
         return result;
+
+
+
     }
 
     public static int generateRandomAge() {
